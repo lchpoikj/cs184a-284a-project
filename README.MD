@@ -19,10 +19,11 @@ Model training/state prediction/ state evaluation is in model_train.ipynb
 
 Event generate/event evaluation is in model_test.ipynb
 
-data can be found at
+data can be found at 
 https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/discussion/437345
 
 
 https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states
 
 
+Put all data into the same dirtory of the notebook
